@@ -12,7 +12,7 @@ if (IsEven(inputNumber))
 }
 else
 {
-    Console.WriteLine("FALE");
+    Console.WriteLine("FALSE");
 }
 
 Console.WriteLine(IsEven(inputNumber));
